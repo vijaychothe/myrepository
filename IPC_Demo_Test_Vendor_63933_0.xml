@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MainDeclaration xmlns="http://webstds.ipc.org/175x/2.0" version="2.0">
+<Product>
+<ProductID itemNumber="IPC-XMLTest" itemName="IPC-XMLTest"/>
+</Product>
+<BusinessInfo>
+<Response fieldLock="false">
+<SupplyCompany name="044314">
+<CompanyID identity="044314"/>
+</SupplyCompany>
+<Contact name="Anudeep Solleti">
+<Email address="vishrut.shukla@tatatechnologies.com"/>
+<Phone number=""/>
+</Contact>
+</Response>
+<Request date="2020-06-09">
+<Contact name="Compliance_Officer">
+<Email address="ehs-compliance@panduit.com"/>
+<Phone number="1-779-254-4863"/>
+</Contact>
+</Request>
+</BusinessInfo>
+</MainDeclaration>
